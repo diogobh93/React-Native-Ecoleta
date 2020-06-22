@@ -9,6 +9,7 @@ Aplicativo para localizar pontos de coleta de resíduos desenvolvido em ReactNat
 - [x] JavaScript
 - [x] TypeScript
 - [x] Expo
+- [x] Hooks
 - [x] @expo/vector-icon
 - [x] @expo-google-fonts
 - [x] expo-mail-composer
